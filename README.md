@@ -1,4 +1,4 @@
-# NodeJS Fundamentals - Challenge 🔥
+# NodeJS Fundamentals
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=challenge&message=nodejs-fundamentals&color=blueviolet&style=for-the-badge"/>
