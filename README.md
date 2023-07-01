@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=challenge&message=nodejs-fundamentals&color=blueviolet&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/LucasValbusaa/nodejs-fundamentals-challenge?color=blueviolet&logo=License&style=for-the-badge"/>
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/LucasValbusaa/nodejs-fundamentals-challenge?color=blueviolet&logo=JavaScript&logoColor=white&style=for-the-badge">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LucasValbusaa/nodejs-fundamentals-challenge?color=blueviolet&style=for-the-badge">
 </p>
